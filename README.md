@@ -1,3 +1,5 @@
 # una-ihcux-lista05
 
-![Print do terminal](./ evidencia.png)
+Heurísticas utilizadas: Status, Prevenção de Erros e Estética
+
+![Print do terminal](./evidencia-final.png)
